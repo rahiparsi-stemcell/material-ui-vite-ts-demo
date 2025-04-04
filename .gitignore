@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Docker
+# Use the .dist file as a template
+docker-compose.yml

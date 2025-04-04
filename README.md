@@ -2,6 +2,8 @@
 Demo of Vite with TypeScript and Material UI
 
 # Dev Notes
+Use the docker-compose.yml.dist as a template to create the docker-compose.yml, adjust it as you see fit.
+
 - The docker-compose.yml sets the NODE_ENV variable to "production" so if you want to build the app
 with this setting, use `npm install --production=false` so that dev dependencies are also installed.
 
